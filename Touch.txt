@@ -1,3 +1,5 @@
 new line
 testing fetching 
 pull
+
+git add -- 
