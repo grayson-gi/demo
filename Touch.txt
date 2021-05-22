@@ -8,3 +8,4 @@ git push --
 git rebase --
 git merge --
 git fetch --
+git stash --
