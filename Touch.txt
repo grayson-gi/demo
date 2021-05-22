@@ -4,3 +4,4 @@ pull
 
 git add -- 
 git pull --
+git push --
