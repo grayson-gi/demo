@@ -6,3 +6,4 @@ git add --
 git pull --
 git push --
 git rebase --
+git merge --
