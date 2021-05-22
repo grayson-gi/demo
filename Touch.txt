@@ -9,3 +9,8 @@ git rebase --
 git merge --
 git fetch --
 git stash --
+<<<<<<< Updated upstream
+stash1 --
+=======
+git stash 2 --
+>>>>>>> Stashed changes
