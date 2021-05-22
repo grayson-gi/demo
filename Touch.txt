@@ -14,4 +14,7 @@ stash1 --
 =======
 git stash 2 --
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 cherry-pick
+=======
+>>>>>>> 8dae9ee13e118bed40d81563534fc77262ff483a
