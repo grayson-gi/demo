@@ -7,3 +7,4 @@ git pull --
 git push --
 git rebase --
 git merge --
+git fetch --
